@@ -4,7 +4,8 @@
   "info": {
     "singularName": "order",
     "pluralName": "orders",
-    "displayName": "Order"
+    "displayName": "Order",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -18,6 +19,9 @@
       "type": "string"
     },
     "stripeSessionId": {
+      "type": "string"
+    },
+    "stripeId": {
       "type": "string"
     }
   }

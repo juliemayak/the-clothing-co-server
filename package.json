@@ -10,6 +10,7 @@
     "strapi": "strapi"
   },
   "dependencies": {
+    "@auth0/auth0-react": "^2.1.0",
     "@strapi/plugin-i18n": "4.10.2",
     "@strapi/plugin-users-permissions": "4.10.2",
     "@strapi/provider-upload-cloudinary": "^4.10.2",
